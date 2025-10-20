@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Payman Yadollahpour
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Payman
+last_name: Yadollahpour
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI & Computational Biology Researcher | Generative Models for Proteins and Molecules | Machine Learning, Computer Vision & Structural Bioinformatics | Postdoctoral Research Scientist at Genentech (Regev Lab)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Genentech
+    url: https://www.gene.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
