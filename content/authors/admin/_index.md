@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI & Computational Biology Researcher | Generative Models for Proteins and Molecules | Machine Learning, Computer Vision & Structural Bioinformatics | Postdoctoral Research Scientist at Genentech (Regev Lab)
+role: AI/Machine Learning, Computer Vision & Structural Bioinformatics | Postdoctoral Research Scientist at Genentech (Regev Lab)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,18 +34,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:pyadolla@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/pyadolla
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/payman-yadollahpour/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=SuWIEE8AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-1984-5014
 
 interests:
   - Large Language Models
